@@ -1,2 +1,2 @@
 "feature 1"
-Bhavith Reddy
+chinthareddy
